@@ -1,12 +1,15 @@
 {
-  "name": "typescript-project",
+  "name": "to-do-typescript-react-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@types/jest": "24.0.16",
+    "@types/nanoid": "^2.0.0",
     "@types/node": "12.6.9",
     "@types/react": "16.8.24",
     "@types/react-dom": "16.8.5",
+    "antd": "^3.21.0",
+    "nanoid": "^2.0.3",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1",
@@ -15,7 +18,9 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test"
+    "test": "react-scripts test",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -43,6 +48,7 @@
     "eslint-plugin-prettier": "^3.1.0",
     "eslint-plugin-react": "^7.14.3",
     "eslint-plugin-react-hooks": "^1.6.1",
+    "gh-pages": "^2.1.0",
     "prettier": "^1.18.2"
   }
 }
