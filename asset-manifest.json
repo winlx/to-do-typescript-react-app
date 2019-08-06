@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.1feb1011.chunk.css",
-    "main.js": "/static/js/main.eb466c6a.chunk.js",
-    "main.js.map": "/static/js/main.eb466c6a.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/css/2.2601abe2.chunk.css": "/static/css/2.2601abe2.chunk.css",
-    "static/js/2.5ba557e6.chunk.js": "/static/js/2.5ba557e6.chunk.js",
-    "static/js/2.5ba557e6.chunk.js.map": "/static/js/2.5ba557e6.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.17d707b477549fe3304b2da76c0e3bcd.js": "/precache-manifest.17d707b477549fe3304b2da76c0e3bcd.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.2601abe2.chunk.css.map": "/static/css/2.2601abe2.chunk.css.map",
-    "static/css/main.1feb1011.chunk.css.map": "/static/css/main.1feb1011.chunk.css.map"
+    "main.css": "/to-do-typescript-react-app/static/css/main.1feb1011.chunk.css",
+    "main.js": "/to-do-typescript-react-app/static/js/main.eb466c6a.chunk.js",
+    "main.js.map": "/to-do-typescript-react-app/static/js/main.eb466c6a.chunk.js.map",
+    "runtime~main.js": "/to-do-typescript-react-app/static/js/runtime~main.8d553b13.js",
+    "runtime~main.js.map": "/to-do-typescript-react-app/static/js/runtime~main.8d553b13.js.map",
+    "static/css/2.2601abe2.chunk.css": "/to-do-typescript-react-app/static/css/2.2601abe2.chunk.css",
+    "static/js/2.cf4f7837.chunk.js": "/to-do-typescript-react-app/static/js/2.cf4f7837.chunk.js",
+    "static/js/2.cf4f7837.chunk.js.map": "/to-do-typescript-react-app/static/js/2.cf4f7837.chunk.js.map",
+    "index.html": "/to-do-typescript-react-app/index.html",
+    "precache-manifest.23cfba277eb3f8f4a50816a546a8cdf4.js": "/to-do-typescript-react-app/precache-manifest.23cfba277eb3f8f4a50816a546a8cdf4.js",
+    "service-worker.js": "/to-do-typescript-react-app/service-worker.js",
+    "static/css/2.2601abe2.chunk.css.map": "/to-do-typescript-react-app/static/css/2.2601abe2.chunk.css.map",
+    "static/css/main.1feb1011.chunk.css.map": "/to-do-typescript-react-app/static/css/main.1feb1011.chunk.css.map"
   }
 }
