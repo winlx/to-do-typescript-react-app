@@ -2,6 +2,7 @@
   "name": "to-do-typescript-react-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://winlx.github.io/to-do-typescript-react-app",
   "dependencies": {
     "@types/jest": "24.0.16",
     "@types/nanoid": "^2.0.0",
@@ -20,7 +21,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build --git git"
   },
   "eslintConfig": {
     "extends": "react-app"
